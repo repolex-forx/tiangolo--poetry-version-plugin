@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "poetry-version-plugin",
+  "versions": [
+    {
+      "commit": "96835bf262405f332cc8f020db86a5ce5992091b",
+      "tag": "0.2.1",
+      "parsed_at": "2026-10-11T08:11:43.051352+00:00"
+    }
+  ]
+}
