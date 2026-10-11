@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/poetry-version-plugin/commit/96835bf262405f332cc8f020db86a5ce5992091b",
       "git:hexsha": "96835bf262405f332cc8f020db86a5ce5992091b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.1",
+      "repolex:parsedAt": "2026-10-11T08:11:42.881262+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/poetry-version-plugin/commit/cb7c6db8ef1cdf2851e30f60fe147e3644390e5c",
